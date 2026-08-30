@@ -6,9 +6,9 @@
 
 export const siteConfig = {
   // Core identity
-  domain: "yourname.com", // ← CHANGE THIS TO YOUR DOMAIN
-  siteName: "Your Name",
-  siteUrl: "https://yourname.com",
+  domain: "theotherdionwarrick.com", // ← CHANGE THIS TO YOUR DOMAIN
+  siteName: "The Other Dion Warrick",
+  siteUrl: "https://theotherdionwarrick.com",
   
   // Contact
   email: "hello@yourname.com",
