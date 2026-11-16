@@ -27,13 +27,13 @@ export const siteConfig = {
   caseStudies: [
     {
       id: "m365-governance",
-      eyebrow: "ENTERPRISE M365 · CONTENT STRATEGY",
-      headline: "Built governance framework enabling BUs to self-service M365 scaling",
-      shortDescription: "Designed information architecture, metadata standards, and federated governance model for an enterprise managing 400+ Teams and 465 SharePoint sites.",
+      eyebrow: "ENTERPRISE M365 · GOVERNANCE",
+      headline: "Transforming knowledge sprawl into scalable content management",
+      shortDescription: "How I shaped a governance model for business units to improve content ownership, findability and risk management.",
       heroStats: [
-        { number: "400+", label: "Teams and SharePoint sites" },
-        { number: "60+", label: "pain points mapped into 8 themes" },
-        { number: "0%", label: "sensitivity labels at start" }
+        { number: "865+", label: "intranet sites analyzed" },
+        { number: "1 to all", label: "standardized IAs for Sites, Teams, and Libraries" },
+        { number: "24+ KPIs", label: "self-service transformation assets delivered" }
       ],
       role: "Content Strategist – Structured Content Lead",
       client: "Enterprise reinsurance",
