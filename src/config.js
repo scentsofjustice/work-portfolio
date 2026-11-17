@@ -39,7 +39,7 @@ export const siteConfig = {
       client: "Enterprise reinsurance",
       owned: "IA, taxonomy, metadata framework, content operations design",
       fullContent: `
-## The Problem
+## The Challenge
 M365 growth outpaced governance. Teams and SharePoint sites sprawled independently, content duplicated across platforms, and no one enforced ownership or review cycles. Leadership needed to scale governance so business units could remediate own sites and content with minimal help from a small IT team. The baseline: zero sensitivity labels, no lifecycle policies, ad-hoc naming, and search that consistently surfaced the wrong document version.
 
 ## What I Did
@@ -63,7 +63,7 @@ No workshops or client interviews were possible under scope. So I reverse-engine
 ## Result
 Established a governance baseline where none existed. The company now has defined taxonomy and metadata schema for enterprise content, a federated governance model ready for rollout, and a 12-KPI measurement framework structured across four categories with reporting sources and cadence.
       `,
-      oneLiner: "Your open door and partnership helped create alignment among team members, making it easier to coordinate efforts, share information, and stay connected on key priorities." —Change Management Lead
+      oneLiner: "“Your open door and partnership helped create alignment among team members, making it easier to coordinate efforts, share information, and stay connected on key priorities.” —Change Management Lead" 
 
     },
     {
@@ -115,7 +115,7 @@ The framework and phased rollout plan (pilot state, then scale to all 32 sites w
       client: "Reliance Matrix (insurance)",
       owned: "SharePoint modernization, IA, taxonomy, governance",
       fullContent: `
-## The Problem
+## The Challenge
 Reliance Matrix wanted a modern intranet—but a redesign alone wouldn't fix the real issue. Content had no shared structure, no agreed ownership, and no consistent voice, so any new SharePoint site would drift back into the same fragmentation. The structure had to come before the skin.
 
 ## What I Did
@@ -134,7 +134,7 @@ A fully centralized model is cleaner on paper. I recommended hybrid so departmen
 ## Result
 Delivered a user-centered global IA, taxonomy and classification frameworks, a hybrid governance model with full RACI, and platform-wide UI copy standards—plus facilitated the workshops that aligned cross-functional teams.
 
-**Testimonial:** "Dion has demonstrated exceptional leadership in the Experience workstream, delivering a user-centered global information architecture. The ability to facilitate design thinking sessions, define scalable content models, and navigate complex stakeholder dynamics has been critical to our success." — Lead Modern Workplace Software Architect
+**Testimonial:** “Dion has demonstrated exceptional leadership in the Experience workstream, delivering a user-centered global information architecture. The ability to facilitate design thinking sessions, define scalable content models, and navigate complex stakeholder dynamics has been critical to our success.” — Lead Modern Workplace Software Architect
       `,
       oneLiner: "I give enterprise content a spine—the information architecture, taxonomy, and governance that make a modern intranet coherent and keep it that way."
     },
@@ -152,7 +152,7 @@ Delivered a user-centered global IA, taxonomy and classification frameworks, a h
       client: "Ecolab",
       owned: "Content personalization framework, ways of working model, technology blueprint",
       fullContent: `
-## The Problem
+## The Challenge
 Ecolab wanted to grow revenue through personalized, tailored experiences—but the foundation wasn't there. Content, data, and technology were siloed, with no shared model for planning, creating, and delivering content across channels at scale. You can't personalize what you can't assemble.
 
 ## What I Did
