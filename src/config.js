@@ -40,7 +40,7 @@ export const siteConfig = {
       owned: "IA, taxonomy, metadata framework, content operations design",
       fullContent: `
 ## The Problem
-M365 growth outpaced governance. Teams and SharePoint sites sprawled independently, content duplicated across platforms, and no one enforced ownership or review cycles. Leadership needed to scale governance without centralizing bottlenecks. The baseline: zero sensitivity labels, no lifecycle policies, ad-hoc naming, and search that consistently surfaced the wrong document version.
+M365 growth outpaced governance. Teams and SharePoint sites sprawled independently, content duplicated across platforms, and no one enforced ownership or review cycles. Leadership needed to scale governance so business units could remediate own sites and content with minimal help from a small IT team. The baseline: zero sensitivity labels, no lifecycle policies, ad-hoc naming, and search that consistently surfaced the wrong document version.
 
 ## What I Did
 - Mapped 60+ pain points from user journey analysis and discovery findings
@@ -63,7 +63,8 @@ No workshops or client interviews were possible under scope. So I reverse-engine
 ## Result
 Established a governance baseline where none existed. The company now has defined taxonomy and metadata schema for enterprise content, a federated governance model ready for rollout, and a 12-KPI measurement framework structured across four categories with reporting sources and cadence.
       `,
-      oneLiner: "I design federated content governance systems that let enterprises scale M365 without centralizing control."
+      oneLiner: "Your open door and partnership helped create alignment among team members, making it easier to coordinate efforts, share information, and stay connected on key priorities." —Change Management Lead
+
     },
     {
       id: "centene-medicaid",
@@ -79,7 +80,7 @@ Established a governance baseline where none existed. The company now has define
       client: "Centene Public Medicaid Sites",
       owned: "Information architecture model, navigation redesign, SEO framework",
       fullContent: `
-## The Problem
+## The Challenge
 Every state built its Medicaid site on its own, with no shared standard. The result: members hit 4–5 clicks to reach basic tasks like pharmacy or provider search, a 22-topic "Resources" catch-all buried real content, and only half of sites even surfaced "Find a Doctor" in primary navigation. On the search side, generic page titles, missing meta descriptions, and a 72%-PDF link footprint meant Google couldn't tell pages apart or index them well.
 
 ## What I Did
@@ -133,7 +134,7 @@ A fully centralized model is cleaner on paper. I recommended hybrid so departmen
 ## Result
 Delivered a user-centered global IA, taxonomy and classification frameworks, a hybrid governance model with full RACI, and platform-wide UI copy standards—plus facilitated the workshops that aligned cross-functional teams.
 
-**Testimonial:** "Dion has demonstrated exceptional leadership in the Experience workstream, delivering a user-centered global information architecture. The ability to facilitate design thinking sessions, define scalable content models, and navigate complex stakeholder dynamics has been critical to our success." — Edwin Vitery, Modern Workplace Software Architect
+**Testimonial:** "Dion has demonstrated exceptional leadership in the Experience workstream, delivering a user-centered global information architecture. The ability to facilitate design thinking sessions, define scalable content models, and navigate complex stakeholder dynamics has been critical to our success." — Lead Modern Workplace Software Architect
       `,
       oneLiner: "I give enterprise content a spine—the information architecture, taxonomy, and governance that make a modern intranet coherent and keep it that way."
     },
