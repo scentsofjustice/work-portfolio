@@ -63,7 +63,7 @@ No workshops or client interviews were possible under scope. So I reverse-engine
 ## Result
 Established a governance baseline where none existed. The company now has defined taxonomy and metadata schema for enterprise content, a federated governance model ready for rollout, and a 12-KPI measurement framework structured across four categories with reporting sources and cadence.
       `,
-      oneLiner: "“Your open door and partnership helped create alignment among team members, making it easier to coordinate efforts, share information, and stay connected on key priorities.” —Change Management Lead" 
+      oneLiner: "“Your partnership helped create alignment among team members, making it easier to coordinate efforts, share information, and stay connected on key priorities.” —Change Management Lead" 
 
     },
     {

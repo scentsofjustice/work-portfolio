@@ -60,7 +60,7 @@ export default function CaseStudyPage({ caseStudy, onBack }) {
         {/* One-liner */}
         {caseStudy.oneLiner && (
           <section className="one-liner">
-            <p className="one-liner-text">"{caseStudy.oneLiner}"</p>
+            <p className="one-liner-text">{caseStudy.oneLiner}</p>
           </section>
         )}
       </article>
