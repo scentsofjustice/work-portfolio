@@ -28,12 +28,12 @@ export const siteConfig = {
     {
       id: "m365-governance",
       eyebrow: "ENTERPRISE M365 · GOVERNANCE",
-      headline: "Transforming knowledge sprawl into scalable content management",
+      headline: "Transforming sprawl into scalable knowledge management",
       shortDescription: "How I shaped a governance model for business units to improve content ownership, findability and risk management.",
       heroStats: [
         { number: "865+", label: "intranet sites analyzed" },
         { number: "1 to all", label: "standardized IAs for Sites, Teams, and Libraries" },
-        { number: "24+ KPIs", label: "self-service transformation assets delivered" }
+        { number: "24+", label: "self-service transformation assets delivered" }
       ],
       role: "Content Strategist – Structured Content Lead",
       client: "Enterprise reinsurance",
